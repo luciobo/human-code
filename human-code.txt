@@ -1,0 +1,6 @@
+Figurine
+-aprire pacchetto
+    -controllare carta se presente in album
+        -TRUE= mazzo carte copie
+        -FALSE=  inserire nell'album
+Repeat       (x volte-n carte pacchetto)
